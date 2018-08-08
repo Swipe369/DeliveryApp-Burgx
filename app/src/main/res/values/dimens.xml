@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="ingredient_radiobutton_witdh">140dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="big_margin">16dp</dimen>
+    <dimen name="radio_button_height">30dp</dimen>
+    <dimen name="radio_button_radius">10dp</dimen>
+    <dimen name="product_card_view_height">450dp</dimen>
+    <dimen name="description_image">150dp</dimen>
+    <dimen name="btn_width">120dp</dimen>
+    <dimen name="margin_for_emoji">11dp</dimen>
+    <dimen name="news_icon_width">100dp</dimen>
+    <dimen name="news_icon_height">100dp</dimen>
+    <!-- Text sizes -->
+    <item name="item_address_spinner_truncate" format="integer" type="integer">20</item>
+    <item name="product_name_ems" format="integer" type="integer">11</item>
+    <item name="news_icon_text_size" format="integer" type="integer">4</item>
+</resources>

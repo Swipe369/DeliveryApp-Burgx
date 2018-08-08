@@ -1,0 +1,130 @@
+<resources>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu2">MenuActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_ingredients">Ингредиенты</string>
+    <string name="title_address">Адрес</string>
+    <string name="title_retry_order">Заказ (информация)</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_products">ProductsActivity</string>
+    <string name="categories">Меню</string>
+    <string name="orders_history">Мои заказы</string>
+    <string name="order">Корзина</string>
+    <string name="news">Новости</string>
+    <string name="account">Мой профиль</string>
+    <string name="about_company">О компании</string>
+    <string name="rewies">Отзывы</string>
+    <string name="company_name">Burgx</string>
+    <string name="company_mail">info@noxfox.ru</string>
+    <string name="company_phone">+7 (4212) 699-207</string>
+    <string name="cost">Цена</string>
+    <string name="currency">р</string>
+    <string name="summary">Итого</string>
+    <string name="self_export">Самовывоз</string>
+    <string name="company_export">Доставка</string>
+    <string name="summary_cost">Сумма заказа</string>
+    <string name="discount">Скидка</string>
+    <string name="delivery_cost">Доставка</string>
+    <string name="to_pay">К оплате</string>
+    <string name="to_order">Заказать</string>
+    <string name="free">Бесплатно</string>
+    <string name="order_send_ok">Успешно</string>
+    <string name="order_send_fail">Повторить</string>
+    <string name="account_main">Основные сведения</string>
+    <string name="account_name">Имя</string>
+    <string name="account_email">Email</string>
+    <string name="account_phone">Телефон</string>
+    <string name="account_address_title">Адрес</string>
+    <string name="address_title">Название адреса</string>
+    <string name="address_city">Город</string>
+    <string name="address_street">Улица</string>
+    <string name="address_house">Дом</string>
+    <string name="address_office">Квартира/офис (Необязательно)</string>
+    <string name="address_floor">Этаж (Необязательно)</string>
+    <string name="address_entrance">Подъезд (Необязательно)</string>
+    <string name="address_code">Код домофона (Необязательно)</string>
+    <string name="account_complete">Отправлено</string>
+    <string name="account_error">Повторить</string>
+    <string name="account_idle">Сохранить</string>
+    <string name="account_progress">Сохраняем</string>
+    <string name="send_ok">Успешно</string>
+    <string name="send_fail">Повторить</string>
+    <string name="order_retry">Повторить</string>
+    <string name="order_cancell">Отменить</string>
+    <string name="summary_cost_with_discount">Сумма заказа со скидкой</string>
+    <string name="num">Кол-во</string>
+    <string name="costSummary">Стоимость</string>
+    <string name="note">Комментарий</string>
+    <string name="soon">На ближайшее время</string>
+
+    <string name="news_icon_text">B</string>
+    <string name="about_company_delivery_title">Burgx - Бар</string>
+    <string name="about_company_cafe_title">Burgx - Бар</string>
+
+
+    <!--Errors-->
+    <string name="error_must_be_at_leat_one_address">Минимум один адрес!</string>
+    <string name="error_cant_be_blank">Не может быть пустым!</string>
+    <string name="empty_cart">Ваша корзина пока еще пуста, но это легко исправить!</string>
+    <string name="error_address_empty">Необходимо выбрать адрес</string>
+    <string name="error_delivery_time_empty">Необходимо выбрать время заказа</string>
+    <string name="error_cant_be_greater_then_hour">Время заказа не менее часа</string>
+    <string name="error_cant_be_less_then_current">Заказы в прошлое не принимаются :)</string>
+    <string name="error_cant_to_late">К сожалению мы уже закрываемся и заказ выполнить не успеем, приходите завтра :)</string>
+    <string name="error_cant_call">Приложению необходимо добавить разрешение звонить!</string>
+    <string name="error_cant_mail">Приложению необходимо добавить разрешение отправить письмо!</string>
+    <string name="error_something_goes_wrong">Что то пошло не так!</string>
+    <string name="error_cant_order_is_rest">К сожалению сегодня выходной,попробуйте завтра!</string>
+
+    <string name="summary_address_list">Адрес доставки</string>
+    <string name="summary_address_list_pickup">Адрес самовывоза</string>
+    <string name="summary_create_account">Добавить адрес</string>
+    <string name="account_addresses">Ваши адреса</string>
+    <string name="account_address">Создать адрес</string>
+    <string name="address_button">Добавить адрес</string>
+    <string name="delete_address">Удалить адрес</string>
+    <string name="address_button_submit">Применить</string>
+    <string name="summary_delivery_time">Время заказа</string>
+    <string name="time_should_be_between">Время заказа должно быть между %1$s и %2$s</string>
+    <string name="empty_list_text">К сожалению тут пока ничего нет :(</string>
+    <string name="addtitional">Дополнительно</string>
+    <string name="order_history_active">Активные заказы</string>
+    <string name="order_history_completed">Предыдущие заказы</string>
+
+    <string name="confirm_cancel">Отменить заказ?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="whant_to_quit">Вы действительно хотите выйти?</string>
+
+    <!--FORM-->
+    <string name="form_percent">%1s %%</string>
+    <string name="form_rubles">%1s р</string>
+    <string name="title_activity_about_company">О компании</string>
+    <string name="dash_delivery_cost">Доставка</string>
+    <string name="dash_order_cost">Сумма заказа</string>
+    <string name="dash_call_us">Позвонить нам</string>
+    <string name="ok">OK</string>
+    <string name="empty" />
+    <string name="summary_string">Итого:</string>
+    <string name="to_categories">Перейти к заказу!</string>
+    <string name="cancel">Отмена</string>
+    <string name="soon_button">Ближайшее время</string>
+
+    <string name="mon">Пн</string>
+    <string name="tue">Вт</string>
+    <string name="wed">Ср</string>
+    <string name="thu">Чт</string>
+    <string name="fri">Пт</string>
+    <string name="sat">Сб</string>
+    <string name="sun">Вс</string>
+    <string name="rest">Выходной</string>
+</resources>

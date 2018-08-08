@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/carte"
+            android:icon="@drawable/ic_menu_carte"
+            android:title="@string/categories" />
+        <item
+            android:id="@+id/orders"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/orders_history" />
+        <item
+            android:id="@+id/basket"
+            android:icon="@drawable/ic_menu_cart"
+            android:title="@string/order" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Новости"
+            />
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="@string/account" />
+    </group>
+
+    <item android:title="@string/addtitional">
+        <menu>
+            <item
+                android:id="@+id/about_company"
+                android:icon="@drawable/ic_company_black_24dp"
+                android:title="@string/about_company" />
+            <item
+                android:id="@+id/rewievers"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/rewies"
+                android:visible="false"/>
+        </menu>
+    </item>
+
+</menu>
